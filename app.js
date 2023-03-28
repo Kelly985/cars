@@ -32,6 +32,6 @@ fetch("http://localhost:3000/cars")
                 body: JSON.stringify()
             })
             .then(res => res.json)
-            .then(cars=>)
+            .then(car =>console.log(car));
 
         }
