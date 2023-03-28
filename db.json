@@ -1,0 +1,69 @@
+{
+    "cars": [
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2020,
+        "color": "Silver",
+        "price": 25000,
+        "image_url": "shorturl.at/JL024"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "color": "Red",
+        "price": 22000,
+        "image_url": "shorturl.at/JL024"
+      },
+      {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2018,
+        "color": "Blue",
+        "price": 30000,
+        "image_url": "shorturl.at/JL024"
+      },
+      {
+        "make": "Tesla",
+        "model": "Model S",
+        "year": 2021,
+        "color": "Black",
+        "price": 75000,
+        "image_url": "shorturl.at/JL024"
+      },
+      {
+        "make": "Chevrolet",
+        "model": "Impala",
+        "year": 2019,
+        "color": "White",
+        "price": 23000,
+        "image_url": "shorturl.at/JL024"
+      },
+      {
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2021,
+        "color": "Gray",
+        "price": 42000,
+        "image_url": "shorturl.at/JL024"
+      },
+      {
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "year": 2020,
+        "color": "Black",
+        "price": 50000,
+        "image_url": "shorturl.at/JL024"
+      },
+      {
+        "make": "Audi",
+        "model": "A4",
+        "year": 2022,
+        "color": "Blue",
+        "price": 38000,
+        "image_url": "shorturl.at/JL024"
+      }
+    ]
+  }
+  
